@@ -108,7 +108,7 @@ qplot(data=average.day2 , interval, steps, geom = "line",
 
 Looking at the graph, the test subject would
 
-a. Get up later on the weekends
-b. Be active for longer in the evenings on weekend
-c. Be active throughout the day on weekends
-c. Be active first thing on a weekday, then spend the rest of the day at a desk.
+1. Get up later on the weekends
+2. Be active for longer in the evenings on weekend
+3. Be active throughout the day on weekends
+4. Be active first thing on a weekday, then spend the rest of the day at a desk.
